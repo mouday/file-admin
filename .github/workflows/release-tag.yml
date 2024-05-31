@@ -28,7 +28,7 @@ jobs:
         with:
           repository: 'mouday/file-admin-web'
           ref: 'dist'
-          path: 'public'
+          path: 'src/public'
 
       # pattern public/*: cannot embed directory public/.git: invalid name .git
       - name: Remove Web .git Dir
