@@ -1,0 +1,10 @@
+*.db
+.idea
+*.iml
+*.log
+logs/
+tmp/
+public/
+build/
+release/
+upload/
