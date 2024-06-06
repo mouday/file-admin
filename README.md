@@ -40,3 +40,9 @@ if __name__ == '__main__':
   'msg': 'success'
 }
 ```
+
+本项目采用前后端分离的架构，前端代码使用React，如需获取前端代码，关注公众号：
+
+![](https://mouday.github.io/img/2024/06/06/spcnbk3.png)
+
+回复：`file-admin-web`
